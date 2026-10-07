@@ -1,5 +1,7 @@
 # DSH OpenAI subscription add-on
 
+![Installation guide: install the add-on, connect your ChatGPT plan, and choose a model in DSH](docs/installation.gif)
+
 Install this small add-on after installing ordinary DeepSeek Harness. It adds OpenAI models and reasoning controls to DSH, using the official Sign in with ChatGPT subscription flow.
 
 ## Connect
