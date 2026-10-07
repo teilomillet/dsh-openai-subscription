@@ -16,7 +16,11 @@ Install the shared package, then connect:
 
 ```sh
 npm install -g pnpm https://github.com/teilomillet/dsh-openai-subscription/releases/download/v0.1.0/dsh-openai-subscription-0.1.0.tgz
+```
+```sh
 dsh-openai connect
+```
+```sh
 dsh web
 ```
 
