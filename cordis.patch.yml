@@ -1,0 +1,3 @@
+- insert:
+    - id: openai-subscription-local
+      name: dsh-openai-subscription/provider

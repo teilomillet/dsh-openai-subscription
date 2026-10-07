@@ -1,0 +1,7 @@
+node_modules/
+vendor/siwc-local/dist/
+*.tgz
+state/
+.env
+.env.*
+.DS_Store
